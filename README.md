@@ -1,1 +1,1 @@
-# Useful javascript code techniques using RxJS
+# Useful code techniques using RxJS
