@@ -3,7 +3,7 @@ const observable = Rx.Observable.fromEvent(name, 'input');
 
 observable
 .map(event => event.target.value)
-//.puck('target', 'value')
+//.pluck('target', 'value')
 .debounceTime(500)
 .distinctUntilChanged()
 .subscribe( value => console.log(value))
