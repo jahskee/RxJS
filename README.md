@@ -1,5 +1,3 @@
 # Useful code techniques using RxJS
+[![Alt text](https://youtu.be/9DLP-EwkSSs/0.jpg)](https://youtu.be/9DLP-EwkSSs)
 
- <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="https://youtu.be/9DLP-EwkSSs" type="video/mp4" />
- </video>
